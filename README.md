@@ -4,7 +4,7 @@
 The list of all the published articles that I have written for GeeksForGeeks. 
 
 Links to all the articles are provided in this repo. Writing articles for GeeksForGeeks is a fun job learning and earning at the same time while introducing yourself to more new technologies and 
-finding solutions to tackle the given problem.
+finding solutions to tackle the given problems.
 
 ### Links
 
