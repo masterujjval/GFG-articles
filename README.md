@@ -13,3 +13,4 @@ Please read and like the articles.
 - [Xtranet Solutions Pvt Ltd Work Experience as a Customer Executive](https://www.geeksforgeeks.org/xtranet-solutions-pvt-ltd-work-experience-as-a-customer-executive/)
 - [Technocrats Institute Of Technology Admission & Campus Experiance](https://www.geeksforgeeks.org/technocrats-institute-of-technology-admission-campus-experiance/)
 - [Top 20 Design Patterns Books of All Time from Beginner to Experts](https://www.geeksforgeeks.org/top-20-design-patterns-books-of-all-time-from-beginner-to-experts/)
+- [How To Open Gparted Terminal in Ubuntu?](https://www.geeksforgeeks.org/how-to-open-gparted-terminal-in-ubuntu/)
