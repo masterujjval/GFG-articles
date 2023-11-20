@@ -14,3 +14,5 @@ Please read and like the articles.
 - [Technocrats Institute Of Technology Admission & Campus Experiance](https://www.geeksforgeeks.org/technocrats-institute-of-technology-admission-campus-experiance/)
 - [Top 20 Design Patterns Books of All Time from Beginner to Experts](https://www.geeksforgeeks.org/top-20-design-patterns-books-of-all-time-from-beginner-to-experts/)
 - [How To Open Gparted Terminal in Ubuntu?](https://www.geeksforgeeks.org/how-to-open-gparted-terminal-in-ubuntu/)
+- [How to convert an integer to its character equivalent in JavaScript](https://www.geeksforgeeks.org/how-to-convert-integer-to-its-character-equivalent-in-javascript/)
+- [How to capture all HTTP packets using Tcpdump](https://www.geeksforgeeks.org/how-to-capture-all-the-http-packets-using-tcpdump/)
