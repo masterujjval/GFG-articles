@@ -1,7 +1,7 @@
 ## GFG-articles
 
 ### About
-The list of all the published articles that I have written for GeeksForGeeks. I'd like you to read the articles and leave a like if you gain some knowledge.
+The list of all the published articles that I have written for GeeksForGeeks. I'd like you to read the articles and leave a like if you gain some new knowledge.
 
 ### Links
 
@@ -12,3 +12,4 @@ The list of all the published articles that I have written for GeeksForGeeks. I'
 - [How to convert an integer to its character equivalent in JavaScript](https://www.geeksforgeeks.org/how-to-convert-integer-to-its-character-equivalent-in-javascript/)
 - [How to capture all HTTP packets using Tcpdump](https://www.geeksforgeeks.org/how-to-capture-all-the-http-packets-using-tcpdump/)
 - [Install and Use Neovim on Ubuntu](https://www.geeksforgeeks.org/install-and-use-neovim-on-ubuntu/)
+- [Why Use GraphQL?](https://www.geeksforgeeks.org/why-use-graphql)
