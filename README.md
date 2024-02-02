@@ -13,3 +13,8 @@ The list of all the published articles that I have written for GeeksForGeeks. I'
 - [How to capture all HTTP packets using Tcpdump](https://www.geeksforgeeks.org/how-to-capture-all-the-http-packets-using-tcpdump/)
 - [Install and Use Neovim on Ubuntu](https://www.geeksforgeeks.org/install-and-use-neovim-on-ubuntu/)
 - [Why Use GraphQL?](https://www.geeksforgeeks.org/why-use-graphql)
+- [How to Copy a Directory in Linux](https://www.geeksforgeeks.org/how-to-copy-a-directory-in-linux/)
+- [ How to Redirect Standard (stderr) Error in Bash](https://www.geeksforgeeks.org/how-to-redirect-standard-stderr-error-in-bash/)
+- [How to Fix - Unable to Lock the Administration Directory – Kali Linux](https://www.geeksforgeeks.org/how-to-fix-unable-to-lock-the-administration-directory-kali-linux/)
+- [Hangman Game with a GUI in Python](https://www.geeksforgeeks.org/hangman-game-with-a-gui-in-python/)
+- [ Introduction to Debian Linux](https://www.geeksforgeeks.org/introduction-to-debian-linux/)
