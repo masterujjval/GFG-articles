@@ -18,3 +18,5 @@ The list of all the published articles that I have written for GeeksForGeeks. I'
 - [How to Fix - Unable to Lock the Administration Directory – Kali Linux](https://www.geeksforgeeks.org/how-to-fix-unable-to-lock-the-administration-directory-kali-linux/)
 - [Hangman Game with a GUI in Python](https://www.geeksforgeeks.org/hangman-game-with-a-gui-in-python/)
 - [ Introduction to Debian Linux](https://www.geeksforgeeks.org/introduction-to-debian-linux/)
+- [How To Uninstall Jenkins On Windows And Linux ?](https://www.geeksforgeeks.org/how-to-uninstall-jenkins-on-windows-and-linux/)
+- [How to Change a User to Superuser in PostgreSQL?](https://www.geeksforgeeks.org/how-to-change-a-user-to-superuser-in-postgresql/)
