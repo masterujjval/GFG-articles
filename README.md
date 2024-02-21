@@ -20,3 +20,6 @@ The list of all the published articles that I have written for GeeksForGeeks. I'
 - [ Introduction to Debian Linux](https://www.geeksforgeeks.org/introduction-to-debian-linux/)
 - [How To Uninstall Jenkins On Windows And Linux ?](https://www.geeksforgeeks.org/how-to-uninstall-jenkins-on-windows-and-linux/)
 - [How to Change a User to Superuser in PostgreSQL?](https://www.geeksforgeeks.org/how-to-change-a-user-to-superuser-in-postgresql/)
+- [How to Avoid Division By Zero in PostgreSQL?](https://www.geeksforgeeks.org/how-to-avoid-division-by-zero-in-postgresql/)
+- [Create a matrix from a list of vectors using R.](https://www.geeksforgeeks.org/create-a-matrix-from-a-list-of-vectors-using-r/)
+- [ Solve Quadratic Equation in R](https://www.geeksforgeeks.org/solve-quadratic-equation-in-r/)
