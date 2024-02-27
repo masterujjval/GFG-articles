@@ -23,3 +23,4 @@ The list of all the published articles that I have written for GeeksForGeeks. I'
 - [How to Avoid Division By Zero in PostgreSQL?](https://www.geeksforgeeks.org/how-to-avoid-division-by-zero-in-postgresql/)
 - [Create a matrix from a list of vectors using R.](https://www.geeksforgeeks.org/create-a-matrix-from-a-list-of-vectors-using-r/)
 - [ Solve Quadratic Equation in R](https://www.geeksforgeeks.org/solve-quadratic-equation-in-r/)
+- [Implementing User Authentication with Next JS and Firebase](https://www.geeksforgeeks.org/implementing-user-authentication-with-next-js-and-firebase/)
